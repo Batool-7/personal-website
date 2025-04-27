@@ -1,4 +1,3 @@
-# personal-website
 # Batool's Portfolio 🌟
 
 Welcome to my personal website!
